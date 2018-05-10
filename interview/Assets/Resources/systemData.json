@@ -1,0 +1,1604 @@
+{
+  "itemList": [
+    {
+      "id": 1240,
+      "name": "魔女之帆",
+      "resid": "equip_fan4.jpg",
+      "quality": 4,
+      "type": 10,
+      "intro": "船帆"
+    },
+    {
+      "id": 1097,
+      "name": "单管迫击炮",
+      "resid": "equip_pao2.jpg",
+      "quality": 2,
+      "type": 2,
+      "intro": "迫击炮"
+    },
+    {
+      "id": 1240,
+      "name": "魔女之帆",
+      "resid": "equip_fan4.jpg",
+      "quality": 4,
+      "type": 10,
+      "intro": "船帆"
+    },
+    {
+      "id": 1137,
+      "name": "角天马像",
+      "resid": "equip_xiang4.jpg",
+      "quality": 4,
+      "type": 1,
+      "intro": "船首像"
+    },
+    {
+      "id": 1193,
+      "name": "阿瑞斯神像",
+      "resid": "equip_xiang4.jpg",
+      "quality": 4,
+      "type": 1,
+      "intro": "船首像"
+    },
+    {
+      "id": 70208,
+      "name": "白兰地卡+20",
+      "resid": "goods_bailandi160.jpg",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>今年过节不收礼，要收就收白兰地</color>"
+    },
+    {
+      "id": 1108,
+      "name": "榆木舱",
+      "resid": "equip_cang4.jpg",
+      "quality": 4,
+      "type": 9,
+      "intro": "船舱"
+    },
+    {
+      "id": 1094,
+      "name": "剑鱼像",
+      "resid": "equip_xiang2.jpg",
+      "quality": 2,
+      "type": 1,
+      "intro": "船首像"
+    },
+    {
+      "id": 1222,
+      "name": "密封横隔舱",
+      "resid": "equip_cang4.jpg",
+      "quality": 4,
+      "type": 9,
+      "intro": "船舱"
+    },
+    {
+      "id": 1545,
+      "name": "神犬舱",
+      "resid": "equip_gchuancang3.jpg",
+      "quality": 5,
+      "type": 9,
+      "intro": "<color=#00ffff>狗年限定船舱</color>\r\n据说装备材料受到过东方神犬的祝福，能增加船只所有属性\r"
+    },
+    {
+      "id": 1549,
+      "name": "狗年大红包",
+      "resid": "item_redbag2.jpg",
+      "quality": 5,
+      "type": 41,
+      "intro": "打开后随机获得以下道具中的1个：\r\n【春】字、【節】字\r\n【賀】字、【新】字\r\n【禧】字、【吉】字\r\n【祥】字、【如】字\r\n【意】字、【年】字\r\n【神犬像】、【神犬炮】\r\n【神犬甲】、【神犬弹】\r\n【神犬舱】、【神犬帆】\r\n【橙色雇佣卡】\r\n【紫色雇佣卡】\r\n【488海星礼包】\r\n【288海星礼包】\r\n【188海星礼包】\r\n【紫色+100卡包】\r\n【200金币箱】"
+    },
+    {
+      "id": 1142,
+      "name": "合金护舰甲",
+      "resid": "equip_jia4.jpg",
+      "quality": 4,
+      "type": 5,
+      "intro": "装甲"
+    },
+    {
+      "id": 70169,
+      "name": "彩烛卡+1",
+      "resid": "goods_caizhu160.jpg",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\r\n<color=#00ffff>玛黛儿小姐：烛光晚餐神马的，最浪漫了</color>"
+    },
+    {
+      "id": 1051,
+      "name": "白色船只卡",
+      "resid": "item_chuanjingyanbai.jpg",
+      "quality": 1,
+      "type": 65,
+      "intro": "使用后对应船只获得500点经验"
+    },
+    {
+      "id": 70193,
+      "name": "奶酪蛋糕卡+10",
+      "resid": "goods_nainaodangao160.jpg",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>在下午茶的时候，大家抢着吃我</color>"
+    },
+    {
+      "id": 1137,
+      "name": "角天马像",
+      "resid": "equip_xiang4.jpg",
+      "quality": 4,
+      "type": 1,
+      "intro": "船首像"
+    },
+    {
+      "id": 1073,
+      "name": "籍·搏命的怒火",
+      "resid": "skill_s2boming.jpg",
+      "quality": 3,
+      "type": 31,
+      "intro": "用于学习和提升技能【<color=#0C68D5>搏命的怒火</color> 】\r\n技能效果：自身损失的耐久越多，暴击率越高\r\n可在技能副本中掉落"
+    },
+    {
+      "id": 70392,
+      "name": "蜂王浆卡+100",
+      "resid": "goods_fengwangjiang160.jpg",
+      "quality": 5,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#14ffff>我不是小孩儿能吃的哦</color>"
+    },
+    {
+      "id": 70255,
+      "name": "天鹅绒卡+5",
+      "resid": "goods_tianerong160.jpg",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\r\n<color=#00ffff>琳娜二世：天鹅绒大衣，才能衬托我的美丽</color>"
+    },
+    {
+      "id": 1389,
+      "name": "1阶材料宝箱",
+      "resid": "box_bx21.jpg",
+      "quality": 1,
+      "type": 41,
+      "intro": "可获得1阶船材料"
+    },
+    {
+      "id": 1224,
+      "name": "魔女之像",
+      "resid": "equip_xiang4.jpg",
+      "quality": 4,
+      "type": 1,
+      "intro": "船首像"
+    },
+    {
+      "id": 1279,
+      "name": "巫妖之炮",
+      "resid": "equip_pao4.jpg",
+      "quality": 4,
+      "type": 2,
+      "intro": "迫击炮"
+    },
+    {
+      "id": 1578,
+      "name": "法兰西之怒",
+      "resid": "item_zhubao-zhen3.jpg",
+      "quality": 4,
+      "type": 72,
+      "intro": "可合成全套珠宝——<color=#FF3366>贞德的战魂（3/8）</color>\r\n<color=#00ffff>怒吼吧，法兰西！让敌人在我的剑下哀嚎吧！</color>"
+    },
+    {
+      "id": 70171,
+      "name": "彩烛卡+5",
+      "resid": "goods_caizhu160.jpg",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\r\n<color=#00ffff>玛黛儿小姐：烛光晚餐神马的，最浪漫了</color>"
+    },
+    {
+      "id": 1074,
+      "name": "籍·嗜血杀戮",
+      "resid": "skill_s3shixie.jpg",
+      "quality": 3,
+      "type": 31,
+      "intro": "用于学习和提升技能【<color=#0C68D5>嗜血杀戮</color> 】\r\n技能效果：提升暴击伤害\r\n可在技能副本中掉落"
+    },
+    {
+      "id": 1545,
+      "name": "神犬舱",
+      "resid": "equip_gchuancang3.jpg",
+      "quality": 5,
+      "type": 9,
+      "intro": "<color=#00ffff>狗年限定船舱</color>\r\n据说装备材料受到过东方神犬的祝福，能增加船只所有属性\r"
+    },
+    {
+      "id": 1240,
+      "name": "魔女之帆",
+      "resid": "equip_fan4.jpg",
+      "quality": 4,
+      "type": 10,
+      "intro": "船帆"
+    },
+    {
+      "id": 70218,
+      "name": "滑膛炮卡+1",
+      "resid": "goods_huatangpao160.jpg",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\r\n<color=#00ffff>若麦哲伦有滑膛炮，他就不会死在半路了</color>"
+    },
+    {
+      "id": 70207,
+      "name": "白兰地卡+10",
+      "resid": "goods_bailandi160.jpg",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>今年过节不收礼，要收就收白兰地</color>"
+    },
+    {
+      "id": 1018,
+      "name": "三角拉丁船龙骨",
+      "resid": "material_chuan9gu.jpg",
+      "quality": 3,
+      "type": 21,
+      "intro": "6阶船合成材料，副本中掉落\r"
+    },
+    {
+      "id": 70158,
+      "name": "维京刀卡+10",
+      "resid": "goods_weijingdao160.jpg",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>勇士科曼：我的刀，不仅杀敌，还能剖鱼</color>"
+    },
+    {
+      "id": 1612,
+      "name": "不死者传奇卡",
+      "resid": "captain_128tx15.jpg",
+      "quality": 5,
+      "type": 81,
+      "intro": "可将<color=#FFFF00>戴维·琼斯</color>升为<color=#FFFF00>【传奇】戴维·琼斯</color>"
+    },
+    {
+      "id": 70220,
+      "name": "滑膛炮卡+5",
+      "resid": "goods_huatangpao160.jpg",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\r\n<color=#00ffff>若麦哲伦有滑膛炮，他就不会死在半路了</color>"
+    },
+    {
+      "id": 1004,
+      "name": "柯克船舵",
+      "resid": "material_chuan3duo.jpg",
+      "quality": 2,
+      "type": 21,
+      "intro": "3阶船合成材料，副本中掉落\r"
+    },
+    {
+      "id": 1545,
+      "name": "神犬舱",
+      "resid": "equip_gchuancang3.jpg",
+      "quality": 5,
+      "type": 9,
+      "intro": "<color=#00ffff>狗年限定船舱</color>\r\n据说装备材料受到过东方神犬的祝福，能增加船只所有属性\r"
+    },
+    {
+      "id": 1118,
+      "name": "轻型甲",
+      "resid": "equip_jia2.jpg",
+      "quality": 2,
+      "type": 5,
+      "intro": "装甲"
+    },
+    {
+      "id": 70239,
+      "name": "西班牙帆卡+1",
+      "resid": "goods_xibanyafan160.jpg",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\r\n<color=#00ffff>哥伦布：这帆质量好，谁用谁知道</color>"
+    },
+    {
+      "id": 1460,
+      "name": "王赐的爆弹",
+      "resid": "equip_dan5.jpg",
+      "quality": 5,
+      "type": 8,
+      "intro": "<color=#00ffff>伊莎贝拉女王亲赐的炮弹，由西班牙顶级船工打造，是尊贵与实力的象征</color>"
+    },
+    {
+      "id": 1066,
+      "name": "5星霸者之证",
+      "resid": "item_up_1-5.jpg",
+      "quality": 5,
+      "type": 24,
+      "intro": "船长升星材料，获得来源：\r\n·每日获利第5个奖励宝箱\r\n·选拔赛排名前100奖励宝箱"
+    },
+    {
+      "id": 1639,
+      "name": "真传奇船长宝盒",
+      "resid": "box_bx26.jpg",
+      "quality": 6,
+      "type": 41,
+      "intro": "打开后随机获得一个船长的【真·传奇】卡"
+    },
+    {
+      "id": 1221,
+      "name": "开花炸弹",
+      "resid": "equip_dan4.jpg",
+      "quality": 4,
+      "type": 8,
+      "intro": "炮弹"
+    },
+    {
+      "id": 1545,
+      "name": "神犬舱",
+      "resid": "equip_gchuancang3.jpg",
+      "quality": 5,
+      "type": 9,
+      "intro": "<color=#00ffff>狗年限定船舱</color>\r\n据说装备材料受到过东方神犬的祝福，能增加船只所有属性\r"
+    },
+    {
+      "id": 1545,
+      "name": "神犬舱",
+      "resid": "equip_gchuancang3.jpg",
+      "quality": 5,
+      "type": 9,
+      "intro": "<color=#00ffff>狗年限定船舱</color>\r\n据说装备材料受到过东方神犬的祝福，能增加船只所有属性\r"
+    },
+    {
+      "id": 1081,
+      "name": "籍·乘胜冲锋",
+      "resid": "skill_s9chengsheng.jpg",
+      "quality": 4,
+      "type": 31,
+      "intro": "用于学习和提升技能【<color=#A02DE4>乘胜冲锋</color>】\r\n技能效果：击沉敌舰后可以再次发动暴击攻击\r\n可在技能副本中掉落"
+    },
+    {
+      "id": 70186,
+      "name": "维京啤酒卡+10",
+      "resid": "goods_weijingpijiu160.jpg",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>是敌人，就拔刀，是朋友，就喝酒</color>"
+    },
+    {
+      "id": 1125,
+      "name": "杉木舱",
+      "resid": "equip_cang3.jpg",
+      "quality": 3,
+      "type": 9,
+      "intro": "船舱"
+    },
+    {
+      "id": 1545,
+      "name": "神犬舱",
+      "resid": "equip_gchuancang3.jpg",
+      "quality": 5,
+      "type": 9,
+      "intro": "<color=#00ffff>狗年限定船舱</color>\r\n据说装备材料受到过东方神犬的祝福，能增加船只所有属性\r"
+    },
+    {
+      "id": 1140,
+      "name": "巨型迫击炮",
+      "resid": "equip_pao004.jpg",
+      "quality": 4,
+      "type": 2,
+      "intro": "迫击炮"
+    },
+    {
+      "id": 70148,
+      "name": "青鱼皮卡+1",
+      "resid": "goods_qingyupi160.jpg",
+      "quality": 3,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>我可是北欧一带传统美食哦</color>"
+    },
+    {
+      "id": 1224,
+      "name": "魔女之像",
+      "resid": "equip_xiang4.jpg",
+      "quality": 4,
+      "type": 1,
+      "intro": "船首像"
+    },
+    {
+      "id": 1008,
+      "name": "荷兰船舵",
+      "resid": "material_chuan5duo.jpg",
+      "quality": 3,
+      "type": 21,
+      "intro": "4阶船合成材料，副本中掉落\r"
+    },
+    {
+      "id": 1195,
+      "name": "海王水晶壁",
+      "resid": "equip_jia4.jpg",
+      "quality": 4,
+      "type": 5,
+      "intro": "装甲"
+    },
+    {
+      "id": 1194,
+      "name": "火焰迫击炮",
+      "resid": "equip_pao04.jpg",
+      "quality": 4,
+      "type": 2,
+      "intro": "迫击炮"
+    },
+    {
+      "id": 1545,
+      "name": "神犬舱",
+      "resid": "equip_gchuancang3.jpg",
+      "quality": 5,
+      "type": 9,
+      "intro": "<color=#00ffff>狗年限定船舱</color>\r\n据说装备材料受到过东方神犬的祝福，能增加船只所有属性\r"
+    },
+    {
+      "id": 1224,
+      "name": "魔女之像",
+      "resid": "equip_xiang4.jpg",
+      "quality": 4,
+      "type": 1,
+      "intro": "船首像"
+    },
+    {
+      "id": 1193,
+      "name": "阿瑞斯神像",
+      "resid": "equip_xiang4.jpg",
+      "quality": 4,
+      "type": 1,
+      "intro": "船首像"
+    },
+    {
+      "id": 70195,
+      "name": "奶酪蛋糕卡+50",
+      "resid": "goods_nainaodangao160.jpg",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>在下午茶的时候，大家抢着吃我</color>"
+    },
+    {
+      "id": 70163,
+      "name": "琥珀卡+2",
+      "resid": "goods_hupo160.jpg",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\r\n<color=#00ffff>如果我的肚子里有小昆虫，那我就值钱了</color>"
+    },
+    {
+      "id": 1175,
+      "name": "四角横帆",
+      "resid": "equip_fan4.jpg",
+      "quality": 4,
+      "type": 10,
+      "intro": "船帆"
+    },
+    {
+      "id": 70284,
+      "name": "木雕工艺卡+10",
+      "resid": "goods_mudiaogongyi160.jpg",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>手艺人特德：我能在枪柄上刻下世界地图</color>"
+    },
+    {
+      "id": 70394,
+      "name": "XO级白兰地卡+2",
+      "resid": "goods_xobailandi160.jpg",
+      "quality": 5,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#16ffff>爱德华王子：你把我灌醉，你让我心碎……</color>"
+    },
+    {
+      "id": 1545,
+      "name": "神犬舱",
+      "resid": "equip_gchuancang3.jpg",
+      "quality": 5,
+      "type": 9,
+      "intro": "<color=#00ffff>狗年限定船舱</color>\r\n据说装备材料受到过东方神犬的祝福，能增加船只所有属性\r"
+    },
+    {
+      "id": 1620,
+      "name": "真·埃夫里传奇卡",
+      "resid": "captain_128tx_hengli.jpg",
+      "quality": 6,
+      "type": 81,
+      "intro": "可将<color=#FFFF00>【传奇】亨利·埃夫里</color>升为全区唯一的<color=#FF3366>【真·传奇】亨利·埃夫里</color>。（若其他玩家已有<color=#FF3366>【真·传奇】亨利·埃夫里</color>，则此道具作废"
+    },
+    {
+      "id": 1569,
+      "name": "羽蛇之牙",
+      "resid": "item_zhubao-yu4.jpg",
+      "quality": 6,
+      "type": 72,
+      "intro": "可合成全套珠宝——<color=#FF3366>羽蛇的祭祀（4/4）</color>\r\n<color=#00ffff>谁侵扰众神之眠，厄运将展翅降临于他！</color>"
+    },
+    {
+      "id": 1555,
+      "name": "荷兰人随机宝盒",
+      "resid": "box_bx36.jpg",
+      "quality": 6,
+      "type": 41,
+      "intro": "打开后随机获得一个荷兰人材料"
+    },
+    {
+      "id": 1221,
+      "name": "开花炸弹",
+      "resid": "equip_dan4.jpg",
+      "quality": 4,
+      "type": 8,
+      "intro": "炮弹"
+    },
+    {
+      "id": 1223,
+      "name": "热那亚角帆",
+      "resid": "equip_fan4.jpg",
+      "quality": 4,
+      "type": 10,
+      "intro": "船帆"
+    },
+    {
+      "id": 1545,
+      "name": "神犬舱",
+      "resid": "equip_gchuancang3.jpg",
+      "quality": 5,
+      "type": 9,
+      "intro": "<color=#00ffff>狗年限定船舱</color>\r\n据说装备材料受到过东方神犬的祝福，能增加船只所有属性\r"
+    },
+    {
+      "id": 1122,
+      "name": "榴弹",
+      "resid": "equip_dan3.jpg",
+      "quality": 3,
+      "type": 8,
+      "intro": "炮弹"
+    },
+    {
+      "id": 1545,
+      "name": "神犬舱",
+      "resid": "equip_gchuancang3.jpg",
+      "quality": 5,
+      "type": 9,
+      "intro": "<color=#00ffff>狗年限定船舱</color>\r\n据说装备材料受到过东方神犬的祝福，能增加船只所有属性\r"
+    },
+    {
+      "id": 1193,
+      "name": "阿瑞斯神像",
+      "resid": "equip_xiang4.jpg",
+      "quality": 4,
+      "type": 1,
+      "intro": "船首像"
+    },
+    {
+      "id": 1069,
+      "name": "重练卡",
+      "resid": "item_chonglianka.jpg",
+      "quality": 3,
+      "type": 44,
+      "intro": "可让船长免费重练1次"
+    },
+    {
+      "id": 70196,
+      "name": "奶酪蛋糕卡+100",
+      "resid": "goods_nainaodangao160.jpg",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\r\n<color=#00ffff>在下午茶的时候，大家抢着吃我</color>"
+    },
+    {
+      "id": 1496,
+      "name": "过漆板",
+      "resid": "material_ban2.jpg",
+      "quality": 5,
+      "type": 74,
+      "intro": "3个过漆板有60%几率合成出：荷兰人龙骨\r\n在加勒比合成界面中合成\r"
+    },
+    {
+      "id": 1497,
+      "name": "防腐板",
+      "resid": "material_ban3.jpg",
+      "quality": 6,
+      "type": 74,
+      "intro": "3个防腐板有90%几率合成出：荷兰人龙骨\r\n在加勒比合成界面中合成\r"
+    },
+    {
+      "id": 70177,
+      "name": "甲胄卡+2",
+      "resid": "goods_jiazhou160.jpg",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\r\n<color=#00ffff>铁匠雷诺：穿我的甲胄一副，胜过买保险</color>"
+    },
+    {
+      "id": 1545,
+      "name": "神犬舱",
+      "resid": "equip_gchuancang3.jpg",
+      "quality": 5,
+      "type": 9,
+      "intro": "<color=#00ffff>狗年限定船舱</color>\r\n据说装备材料受到过东方神犬的祝福，能增加船只所有属性\r"
+    },
+    {
+      "id": 70293,
+      "name": "火山石雕卡+50",
+      "resid": "goods_huoshanshidiao160.psd",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>火山石硬度高，雕出的艺术品如钻石般恒久</color>"
+    },
+    {
+      "id": 70102,
+      "name": "棉布卡+10",
+      "resid": "goods_mianbu160.psd",
+      "quality": 3,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>棉布虽不如麻布透气，但保暖性却更好</color>"
+    },
+    {
+      "id": 1314,
+      "name": "诺亚之炮",
+      "resid": "equip_pao003.psd",
+      "quality": 3,
+      "type": 2,
+      "intro": "迫击炮"
+    },
+    {
+      "id": 1375,
+      "name": "*70级紫装橙装",
+      "resid": "equip_dan5.psd",
+      "quality": 5,
+      "type": 41,
+      "intro": "掉落70级紫装或70级橙装，通关后重置副本"
+    },
+    {
+      "id": 1560,
+      "name": "五级建城卡",
+      "resid": "item_cityjs.psd",
+      "quality": 6,
+      "type": 77,
+      "intro": "为一个加勒比城市增加<color=#00CCFF>1650</color>武装度，城主对自己的城市使用时效果翻倍\r"
+    },
+    {
+      "id": 70069,
+      "name": "枪械铸件卡+50",
+      "resid": "goods_qiangxiezhujian160.psd",
+      "quality": 3,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>打仗要靠抢，好枪靠好钢</color>"
+    },
+    {
+      "id": 70166,
+      "name": "琥珀卡+20",
+      "resid": "goods_hupo160.psd",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>如果我的肚子里有小昆虫，那我就值钱了</color>"
+    },
+    {
+      "id": 1423,
+      "name": "贸易大宝箱",
+      "resid": "box_lb24.psd",
+      "quality": 4,
+      "type": 43,
+      "intro": "贸易战胜方奖励，内含【珍珠*30】"
+    },
+    {
+      "id": 1179,
+      "name": "战神铠甲盾",
+      "resid": "equip_jia5.psd",
+      "quality": 5,
+      "type": 5,
+      "intro": "装甲"
+    },
+    {
+      "id": 70188,
+      "name": "维京啤酒卡+50",
+      "resid": "goods_weijingpijiu160.psd",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>是敌人，就拔刀，是朋友，就喝酒</color>"
+    },
+    {
+      "id": 70200,
+      "name": "北海琥珀卡+10",
+      "resid": "goods_beihaihupo160.psd",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>我是世界上最好的琥珀</color>"
+    },
+    {
+      "id": 1601,
+      "name": "尼莫传奇卡",
+      "resid": "captain_128tx_nimo.psd",
+      "quality": 5,
+      "type": 81,
+      "intro": "可将<color=#FFFF00>尼摩</color>升为<color=#FFFF00>【传奇】尼摩</color>"
+    },
+    {
+      "id": 1584,
+      "name": "加勒比之心",
+      "resid": "item_zhubao-suo1.jpg",
+      "quality": 4,
+      "type": 72,
+      "intro": "可合成全套珠宝——<color=#FF3366>索菲亚嫁妆（1/10）</color>\r\n<color=#00ffff>我如果心碎，我的伤悲就是这最深的海水</color>"
+    },
+    {
+      "id": 1233,
+      "name": "密封板式舱",
+      "resid": "equip_cang3.psd",
+      "quality": 3,
+      "type": 9,
+      "intro": "船舱"
+    },
+    {
+      "id": 70329,
+      "name": "水晶雕像卡+100",
+      "resid": "goods_shuijingdiaoxiang160.psd",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\r\n<color=#00ffff>用我做的美人鱼，是爱情的最佳代表</color>"
+    },
+    {
+      "id": 70157,
+      "name": "维京刀卡+5",
+      "resid": "goods_weijingdao160.psd",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\r\n<color=#00ffff>勇士科曼：我的刀，不仅杀敌，还能剖鱼</color>"
+    },
+    {
+      "id": 1080,
+      "name": "籍·反击号角",
+      "resid": "skill_s12fanji.psd",
+      "quality": 5,
+      "type": 31,
+      "intro": "用于学习和提升技能【<color=#DB5200>反击号角</color>】\r\n技能效果：受到攻击后有几率反击敌舰\r\n可在技能副本中掉落"
+    },
+    {
+      "id": 1203,
+      "name": "海怪之像",
+      "resid": "equip_xiang2.psd",
+      "quality": 2,
+      "type": 1,
+      "intro": "船首像"
+    },
+    {
+      "id": 1512,
+      "name": "双倍钓宝卡",
+      "resid": "item_diaobaox2.psd",
+      "quality": 6,
+      "type": 87,
+      "intro": "在钓宝时使用，可出现“双倍钓宝区域”"
+    },
+    {
+      "id": 70272,
+      "name": "黄金艺品卡+50",
+      "resid": "goods_huangjinyipin160.psd",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>尤娜公主：带了金项链儿，才有公主范儿</color>"
+    },
+    {
+      "id": 1503,
+      "name": "牛津布",
+      "resid": "material_bu3.jpg",
+      "quality": 6,
+      "type": 74,
+      "intro": "3个牛津布有90%几率合成出：荷兰人帆布\r\n在加勒比合成界面中合成"
+    },
+    {
+      "id": 1014,
+      "name": "卡瑞克帆布",
+      "resid": "material_chuan7fan.psd",
+      "quality": 3,
+      "type": 21,
+      "intro": "\"5阶材料，获得来源：\r\n·材料天关掉落\r\n·每日获利奖励\"\r"
+    },
+    {
+      "id": 1245,
+      "name": "风暴之弹",
+      "resid": "equip_dan2.psd",
+      "quality": 2,
+      "type": 8,
+      "intro": "炮弹"
+    },
+    {
+      "id": 70260,
+      "name": "皮革制品卡+1",
+      "resid": "goods_pigezhipin160.psd",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\r\n<color=#00ffff>设计师香奈儿：皮革制品是时尚奢华的象征</color>"
+    },
+    {
+      "id": 70267,
+      "name": "黄金艺品卡+1",
+      "resid": "goods_huangjinyipin160.psd",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\r\n<color=#00ffff>尤娜公主：带了金项链儿，才有公主范儿</color>"
+    },
+    {
+      "id": 1611,
+      "name": "残暴者传奇卡",
+      "resid": "captain_128tx15.psd",
+      "quality": 5,
+      "type": 81,
+      "intro": "可将<color=#FFFF00>亨利·摩根</color>升为<color=#FFFF00>【传奇】亨利·摩根</color>"
+    },
+    {
+      "id": 1468,
+      "name": "五级物资",
+      "resid": "item_wuzika4.jpg",
+      "quality": 6,
+      "type": 76,
+      "intro": "使用后可增加300000点物资"
+    },
+    {
+      "id": 70058,
+      "name": "麻布卡+2",
+      "resid": "goods_mabu160.psd",
+      "quality": 3,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>水手艾伦：麻布透气凉快，水手夏日最爱</color>"
+    },
+    {
+      "id": 1011,
+      "name": "维京帆布",
+      "resid": "material_chuan6fan.psd",
+      "quality": 3,
+      "type": 21,
+      "intro": "\"5阶材料，获得来源：\r\n·材料天关掉落\r\n·选拔赛奖励\"\r"
+    },
+    {
+      "id": 1042,
+      "name": "铁甲船龙骨",
+      "resid": "material_chuan17gu.psd",
+      "quality": 5,
+      "type": 21,
+      "intro": "8阶船合成材料，副本中掉落\r"
+    },
+    {
+      "id": 70383,
+      "name": "精锐步枪卡+20",
+      "resid": "goods_jingruibuqiang160.psd",
+      "quality": 5,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#05ffff>温莎公爵：让子弹飞一会儿</color>"
+    },
+    {
+      "id": 1371,
+      "name": "*6阶船帆",
+      "resid": "material_chuan8fan.psd",
+      "quality": 3,
+      "type": 41,
+      "intro": "掉落合成6阶船的船帆，通关后重置副本"
+    },
+    {
+      "id": 70118,
+      "name": "木块卡+50",
+      "resid": "goods_mukuai160.psd",
+      "quality": 3,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>把无数个我拼起来，就成了哥伦布的尼雅号</color>"
+    },
+    {
+      "id": 1453,
+      "name": "鸿羽舱",
+      "resid": "equip_cang5.psd",
+      "quality": 5,
+      "type": 9,
+      "intro": "使用贵重原材料制造的船舱，将内部容量提升到了极致，超低的自重增加了船只的闪避和航行速度\r\n\r\n<color=#00ffff>限时排名赛活动第1名限定奖励</color>"
+    },
+    {
+      "id": 1233,
+      "name": "密封板式舱",
+      "resid": "equip_cang3.psd",
+      "quality": 3,
+      "type": 9,
+      "intro": "船舱"
+    },
+    {
+      "id": 1168,
+      "name": "加厚帆",
+      "resid": "equip_fan2.psd",
+      "quality": 2,
+      "type": 10,
+      "intro": "船帆"
+    },
+    {
+      "id": 70327,
+      "name": "水晶雕像卡+20",
+      "resid": "goods_shuijingdiaoxiang160.psd",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>用我做的美人鱼，是爱情的最佳代表</color>"
+    },
+    {
+      "id": 70232,
+      "name": "葡式步枪卡+1",
+      "resid": "goods_pushibuqiang160.psd",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\r\n<color=#00ffff>跟枪一比，刀什么的就是战斗力5的渣渣</color>"
+    },
+    {
+      "id": 70119,
+      "name": "木块卡+100",
+      "resid": "goods_mukuai160.psd",
+      "quality": 3,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>把无数个我拼起来，就成了哥伦布的尼雅号</color>"
+    },
+    {
+      "id": 1550,
+      "name": "贸易技能箱",
+      "resid": "box_bx35.psd",
+      "quality": 5,
+      "type": 43,
+      "intro": "内含【<color=#00CCFF>籍·牙尖嘴利</color>】*150，【<color=#00CCFF>籍·商业天才</color>】*150"
+    },
+    {
+      "id": 1324,
+      "name": "阿波罗神帆",
+      "resid": "equip_fan5.psd",
+      "quality": 5,
+      "type": 10,
+      "intro": "船帆"
+    },
+    {
+      "id": 1299,
+      "name": "奥丁战神弹",
+      "resid": "equip_dan5.psd",
+      "quality": 5,
+      "type": 8,
+      "intro": "炮弹"
+    },
+    {
+      "id": 1215,
+      "name": "精铁舱",
+      "resid": "equip_cang3.psd",
+      "quality": 3,
+      "type": 9,
+      "intro": "船舱"
+    },
+    {
+      "id": 1065,
+      "name": "4星霸者之印",
+      "resid": "item_up_3-4.psd",
+      "quality": 4,
+      "type": 24,
+      "intro": "船长升星材料，获得来源：\r\n·每日获利第5个奖励宝箱\r\n·选拔赛排名前100奖励宝箱"
+    },
+    {
+      "id": 1248,
+      "name": "天灾之像",
+      "resid": "equip_xiang2.psd",
+      "quality": 2,
+      "type": 1,
+      "intro": "船首像"
+    },
+    {
+      "id": 1626,
+      "name": "真·爱德华传奇卡",
+      "resid": "captain_128tx_luo.psd",
+      "quality": 6,
+      "type": 81,
+      "intro": "可将<color=#FFFF00>【传奇】爱德华•罗</color>升为全区唯一的<color=#FF3366>【真·传奇】爱德华•罗</color>。（若其他玩家已有<color=#FF3366>【真·传奇】爱德华•罗</color>，则此道具作废"
+    },
+    {
+      "id": 1479,
+      "name": "300贝壳宝箱",
+      "resid": "box_bx15.psd",
+      "quality": 5,
+      "type": 43,
+      "intro": "使用后可获得300贝壳\r\n贝壳可用于进入限时活动副本"
+    },
+    {
+      "id": 70399,
+      "name": "XO级白兰地卡+100",
+      "resid": "goods_xobailandi160.psd",
+      "quality": 5,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#21ffff>爱德华王子：你把我灌醉，你让我心碎……</color>"
+    },
+    {
+      "id": 1280,
+      "name": "巫妖之盾",
+      "resid": "equip_jia4.psd",
+      "quality": 4,
+      "type": 5,
+      "intro": "装甲"
+    },
+    {
+      "id": 70139,
+      "name": "炮膛铸件卡+50",
+      "resid": "goods_paotangzhujian160.psd",
+      "quality": 3,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>铁匠马克：我们的铸件绝不会让炮弹炸膛</color>"
+    },
+    {
+      "id": 70288,
+      "name": "火山石雕卡+1",
+      "resid": "goods_huoshanshidiao160.psd",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\r\n<color=#00ffff>火山石硬度高，雕出的艺术品如钻石般恒久</color>"
+    },
+    {
+      "id": 70086,
+      "name": "玻璃卡+2",
+      "resid": "goods_boli160.psd",
+      "quality": 3,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>做玻璃的手工匠人收入高，是标准的高富帅</color>"
+    },
+    {
+      "id": 1043,
+      "name": "铁甲船舵",
+      "resid": "material_chuan17duo.psd",
+      "quality": 5,
+      "type": 21,
+      "intro": "8阶船合成材料，副本中掉落\r"
+    },
+    {
+      "id": 1556,
+      "name": "一级建城卡",
+      "resid": "item_cityjs.psd",
+      "quality": 4,
+      "type": 77,
+      "intro": "为一个加勒比城市增加<color=#00CCFF>150</color>武装度，城主对自己的城市使用时效果翻倍\r"
+    },
+    {
+      "id": 1511,
+      "name": "紫色+100卡包",
+      "resid": "box_kabao4.psd",
+      "quality": 4,
+      "type": 41,
+      "intro": "打开后随机获得1张【<color=#FF00FF>紫色货物卡+100</color>】\r\n有几率获得【<color=#FF00FF>皇室伯爵红茶卡+100</color>】【<color=#FF00FF>精品纯银餐盘卡+100</color>】"
+    },
+    {
+      "id": 1095,
+      "name": "海鸥像",
+      "resid": "equip_xiang2.psd",
+      "quality": 2,
+      "type": 1,
+      "intro": "船首像"
+    },
+    {
+      "id": 1016,
+      "name": "盖伦船舵",
+      "resid": "material_chuan8duo.psd",
+      "quality": 3,
+      "type": 21,
+      "intro": "6阶船合成材料，副本中掉落\r"
+    },
+    {
+      "id": 1238,
+      "name": "魔女之舱",
+      "resid": "equip_cang4.psd",
+      "quality": 4,
+      "type": 9,
+      "intro": "船舱"
+    },
+    {
+      "id": 70030,
+      "name": "面粉卡+2",
+      "resid": "goods_mianfen160.psd",
+      "quality": 2,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>我烤出的面包专供欧洲王室</color>"
+    },
+    {
+      "id": 70400,
+      "name": "精致航海罗盘卡+1",
+      "resid": "goods_jingzhiluopan160.psd",
+      "quality": 5,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#22ffff>漂亮的罗盘，就是偶尔会不停地转圈</color>"
+    },
+    {
+      "id": 1001,
+      "name": "三角帆船龙骨",
+      "resid": "material_chuan1gu.psd",
+      "quality": 1,
+      "type": 21,
+      "intro": "1阶船合成材料，副本中掉落\r\n"
+    },
+    {
+      "id": 1296,
+      "name": "奥丁战神像",
+      "resid": "equip_xiang5.psd",
+      "quality": 5,
+      "type": 1,
+      "intro": "船首像"
+    },
+    {
+      "id": 1426,
+      "name": "紫色宝石箱",
+      "resid": "box_bx14.psd",
+      "quality": 4,
+      "type": 41,
+      "intro": "可获得紫色海晶石*5，有几率获得4星或5星霸者套件"
+    },
+    {
+      "id": 70313,
+      "name": "精品水晶项链卡+20",
+      "resid": "goods_shuijingxianglian160.psd",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>玛丽公主：我对你的爱情，好像水晶</color>"
+    },
+    {
+      "id": 70108,
+      "name": "麦麸卡+5",
+      "resid": "goods_maifu160.psd",
+      "quality": 3,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>用我做的消化饼干风靡了整个世界</color>"
+    },
+    {
+      "id": 70217,
+      "name": "陶瓷器卡+100",
+      "resid": "goods_taociqi160.psd",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\r\n<color=#00ffff>他们说，我的起源是在遥远的东方，中国</color>"
+    },
+    {
+      "id": 1256,
+      "name": "盖亚之甲",
+      "resid": "equip_jia2.psd",
+      "quality": 2,
+      "type": 5,
+      "intro": "装甲"
+    },
+    {
+      "id": 1330,
+      "name": "橙色船长卡",
+      "resid": "item_capexp5.psd",
+      "quality": 5,
+      "type": 66,
+      "intro": "使用后所有船长获得500000点经验\r"
+    },
+    {
+      "id": 1355,
+      "name": "110级紫装橙装",
+      "resid": "equip_fan5.psd",
+      "quality": 5,
+      "type": 41,
+      "intro": "掉落110级紫装或110级橙装"
+    },
+    {
+      "id": 70353,
+      "name": "特制维京匕首卡+5",
+      "resid": "goods_weijingbishou160.psd",
+      "quality": 5,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>最大的愿望就是和中国的屠龙刀比一比</color>"
+    },
+    {
+      "id": 1147,
+      "name": "木板舱",
+      "resid": "equip_cang2.psd",
+      "quality": 2,
+      "type": 9,
+      "intro": "船舱"
+    },
+    {
+      "id": 1598,
+      "name": "传奇船长卡",
+      "resid": "captain_128tx13.psd",
+      "quality": 5,
+      "type": 81,
+      "intro": "可将原本紫色或以下船长升为<color=#FFFF00>【传奇】船长</color>（需要先升为<color=#FFFF00>橙色</color>五星船长）"
+    },
+    {
+      "id": 70023,
+      "name": "棉纱卡+2",
+      "resid": "goods_miansha160.psd",
+      "quality": 2,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>精梳棉织法的面纱是做衣服的上好原料</color>"
+    },
+    {
+      "id": 70323,
+      "name": "水晶雕像卡+1",
+      "resid": "goods_shuijingdiaoxiang160.psd",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>用我做的美人鱼，是爱情的最佳代表</color>"
+    },
+    {
+      "id": 1423,
+      "name": "贸易大宝箱",
+      "resid": "box_lb24.psd",
+      "quality": 4,
+      "type": 43,
+      "intro": "贸易战胜方奖励，内含【珍珠*30】"
+    },
+    {
+      "id": 1287,
+      "name": "美杜莎之弹",
+      "resid": "equip_dan4.psd",
+      "quality": 4,
+      "type": 8,
+      "intro": "炮弹"
+    },
+    {
+      "id": 1515,
+      "name": "500海星宝箱",
+      "resid": "box_bx25.psd",
+      "quality": 5,
+      "type": 43,
+      "intro": "打开后可获得500海星"
+    },
+    {
+      "id": 1447,
+      "name": "紫色货物卡包",
+      "resid": "box_kabao4.psd",
+      "quality": 4,
+      "type": 45,
+      "intro": "随机获得3张紫色货物卡（需要配方合成的卡除外）"
+    },
+    {
+      "id": 70104,
+      "name": "棉布卡+50",
+      "resid": "goods_mianbu160.psd",
+      "quality": 3,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>棉布虽不如麻布透气，但保暖性却更好</color>"
+    },
+    {
+      "id": 1203,
+      "name": "海怪之像",
+      "resid": "equip_xiang2.psd",
+      "quality": 2,
+      "type": 1,
+      "intro": "船首像"
+    },
+    {
+      "id": 1552,
+      "name": "10珍珠礼包",
+      "resid": "box_lb13.psd",
+      "quality": 3,
+      "type": 43,
+      "intro": "打开后获得10珍珠"
+    },
+    {
+      "id": 1075,
+      "name": "籍·雅典娜之盾",
+      "resid": "skill_s7yadian.psd",
+      "quality": 4,
+      "type": 31,
+      "intro": "用于学习和提升技能【<color=#A02DE4>雅典娜之盾</color>】\r\n技能效果：降低自身受到的伤害\r\n可在技能副本中掉落"
+    },
+    {
+      "id": 1438,
+      "name": "*双倍掉落！！",
+      "resid": "item_x2.psd",
+      "quality": 5,
+      "type": 41,
+      "intro": "追加敌人掉落的<color=#FF6633>技能书</color>、<color=#FF00FF>紫色经验卡</color>、<color=#FF00FF>4星升阶材料</color>数量升为<color=#00FF00>2倍</color>，更高几率掉落<color=#FF6633>船舱</color>和<color=#FF6633>橙色雇佣卡</color>\r"
+    },
+    {
+      "id": 1547,
+      "name": "贸易技能箱",
+      "resid": "box_bx35.psd",
+      "quality": 5,
+      "type": 43,
+      "intro": "内含【<color=#00CCFF>籍·牙尖嘴利</color>】*150，【<color=#00CCFF>籍·商业天才</color>】*150"
+    },
+    {
+      "id": 70328,
+      "name": "水晶雕像卡+50",
+      "resid": "goods_shuijingdiaoxiang160.psd",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>用我做的美人鱼，是爱情的最佳代表</color>"
+    },
+    {
+      "id": 1133,
+      "name": "精铁加农炮",
+      "resid": "equip_pao03.psd",
+      "quality": 3,
+      "type": 2,
+      "intro": "加农炮"
+    },
+    {
+      "id": 1017,
+      "name": "盖伦帆布",
+      "resid": "material_chuan8fan.psd",
+      "quality": 3,
+      "type": 21,
+      "intro": "\"6阶材料，获得来源：\r\n·材料天关掉落\r\n·选拔赛奖励\"\r"
+    },
+    {
+      "id": 1252,
+      "name": "天灾之舱",
+      "resid": "equip_cang2.psd",
+      "quality": 2,
+      "type": 9,
+      "intro": "船舱"
+    },
+    {
+      "id": 1372,
+      "name": "*8阶船舵和龙骨",
+      "resid": "material_chuan15gu.psd",
+      "quality": 5,
+      "type": 41,
+      "intro": "掉落合成8阶船的船舵和龙骨，通关后重置副本"
+    },
+    {
+      "id": 70393,
+      "name": "XO级白兰地卡+1",
+      "resid": "goods_xobailandi160.psd",
+      "quality": 5,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#15ffff>爱德华王子：你把我灌醉，你让我心碎……</color>"
+    },
+    {
+      "id": 1502,
+      "name": "防水布",
+      "resid": "material_bu2.jpg",
+      "quality": 5,
+      "type": 74,
+      "intro": "3个防水布有60%几率合成出：荷兰人帆布\r\n在加勒比合成界面中合成"
+    },
+    {
+      "id": 70353,
+      "name": "特制维京匕首卡+5",
+      "resid": "goods_weijingbishou160.psd",
+      "quality": 5,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>最大的愿望就是和中国的屠龙刀比一比</color>"
+    },
+    {
+      "id": 70339,
+      "name": "铜质工艺品卡+5",
+      "resid": "goods_tongzhigongyipin160.psd",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>曾有小偷来偷我，搬了两米就砸脚</color>"
+    },
+    {
+      "id": 1357,
+      "name": "150级绿蓝装",
+      "resid": "equip_cang3.psd",
+      "quality": 3,
+      "type": 41,
+      "intro": "掉落150级绿装或150级蓝装"
+    },
+    {
+      "id": 1020,
+      "name": "三角拉丁帆布",
+      "resid": "material_chuan9fan.psd",
+      "quality": 3,
+      "type": 21,
+      "intro": "\"6阶材料，获得来源：\r\n·材料天关掉落\r\n·每日获利奖励\"\r"
+    },
+    {
+      "id": 70359,
+      "name": "手工纯毛毯卡+2",
+      "resid": "goods_chunmaotan160.psd",
+      "quality": 5,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>先要登上人生的巅峰，才能将我踩在脚下</color>"
+    },
+    {
+      "id": 1443,
+      "name": "小袋贝壳",
+      "resid": "box_lb24.psd",
+      "quality": 4,
+      "type": 43,
+      "intro": "内含100贝壳，可用于进入限时活动副本"
+    },
+    {
+      "id": 1565,
+      "name": "五级破城卡",
+      "resid": "item_cityph.psd",
+      "quality": 6,
+      "type": 77,
+      "intro": "使一个加勒比城市减少<color=#00CCFF>1300</color>武装度\r"
+    },
+    {
+      "id": 1580,
+      "name": "王的祝福（左）",
+      "resid": "item_zhubao-zhen5.jpg",
+      "quality": 4,
+      "type": 72,
+      "intro": "可合成全套珠宝——<color=#FF3366>贞德的战魂（5/8）</color>\r\n<color=#00ffff>以神授君王之祝福，愿你在战场上所向披靡！</color>"
+    },
+    {
+      "id": 1218,
+      "name": "连射迫击炮",
+      "resid": "equip_pao003.psd",
+      "quality": 3,
+      "type": 2,
+      "intro": "迫击炮"
+    },
+    {
+      "id": 70268,
+      "name": "黄金艺品卡+2",
+      "resid": "goods_huangjinyipin160.psd",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\r\n<color=#00ffff>尤娜公主：带了金项链儿，才有公主范儿</color>"
+    },
+    {
+      "id": 1266,
+      "name": "巨人之炮",
+      "resid": "equip_pao03.psd",
+      "quality": 3,
+      "type": 2,
+      "intro": "迫击炮"
+    },
+    {
+      "id": 1064,
+      "name": "4星霸者之章",
+      "resid": "item_up_2-4.psd",
+      "quality": 4,
+      "type": 24,
+      "intro": "船长升星材料，获得来源：\r\n·每日获利第5个奖励宝箱\r\n·选拔赛排名前100奖励宝箱"
+    },
+    {
+      "id": 70149,
+      "name": "青鱼皮卡+2",
+      "resid": "goods_qingyupi160.psd",
+      "quality": 3,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>我可是北欧一带传统美食哦</color>"
+    },
+    {
+      "id": 70039,
+      "name": "铁锭卡+10",
+      "resid": "goods_tieding160.psd",
+      "quality": 2,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>学徒莱特：每次师傅骂，我都想用铁锭拍他</color>"
+    },
+    {
+      "id": 1505,
+      "name": "3格仓库扩充",
+      "resid": "box_bx12.psd",
+      "quality": 3,
+      "type": 68,
+      "intro": "使用后仓库增加3个格子"
+    },
+    {
+      "id": 1106,
+      "name": "重型甲",
+      "resid": "equip_jia4.psd",
+      "quality": 4,
+      "type": 5,
+      "intro": "装甲"
+    },
+    {
+      "id": 1185,
+      "name": "线膛加农炮",
+      "resid": "equip_pao005.psd",
+      "quality": 5,
+      "type": 2,
+      "intro": "加农炮"
+    },
+    {
+      "id": 1101,
+      "name": "三联加农炮",
+      "resid": "equip_pao4.psd",
+      "quality": 4,
+      "type": 2,
+      "intro": "加农炮"
+    },
+    {
+      "id": 1190,
+      "name": "重装迫击炮",
+      "resid": "equip_pao003.psd",
+      "quality": 3,
+      "type": 2,
+      "intro": "迫击炮"
+    },
+    {
+      "id": 70044,
+      "name": "牛角卡+2",
+      "resid": "goods_niujiao160.psd",
+      "quality": 2,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>贞德：同胞们，听到进攻的号角了吗</color>"
+    },
+    {
+      "id": 70044,
+      "name": "牛角卡+2",
+      "resid": "goods_niujiao160.psd",
+      "quality": 2,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>贞德：同胞们，听到进攻的号角了吗</color>"
+    },
+    {
+      "id": 70204,
+      "name": "白兰地卡+1",
+      "resid": "goods_bailandi160.psd",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\r\n<color=#00ffff>今年过节不收礼，要收就收白兰地</color>"
+    },
+    {
+      "id": 70341,
+      "name": "铜质工艺品卡+20",
+      "resid": "goods_tongzhigongyipin160.psd",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>曾有小偷来偷我，搬了两米就砸脚</color>"
+    },
+    {
+      "id": 1541,
+      "name": "神犬像",
+      "resid": "equip_gchuanshou3.psd",
+      "quality": 5,
+      "type": 1,
+      "intro": "<color=#00ffff>狗年限定船首像</color>\r\n据说装备材料受到过东方神犬的祝福，能增加船只所有属性\r"
+    },
+    {
+      "id": 1324,
+      "name": "阿波罗神帆",
+      "resid": "equip_fan5.psd",
+      "quality": 5,
+      "type": 10,
+      "intro": "船帆"
+    },
+    {
+      "id": 1477,
+      "name": "被盗的7阶船帆",
+      "resid": "material_chuan10fan.psd",
+      "quality": 4,
+      "type": 41,
+      "intro": "每个海盗团首领都有几率掉落7阶船帆"
+    },
+    {
+      "id": 1068,
+      "name": "5星霸者之印",
+      "resid": "item_up_3-5.psd",
+      "quality": 5,
+      "type": 24,
+      "intro": "船长升星材料，获得来源：\r\n·每日获利第5个奖励宝箱\r\n·选拔赛排名前100奖励宝箱"
+    },
+    {
+      "id": 1554,
+      "name": "犬神随机礼盒",
+      "resid": "box_bx25.psd",
+      "quality": 5,
+      "type": 41,
+      "intro": "打开后随机获得以下5件活动限定装备中的1件：\r\n【犬神像】\r\n【犬神炮】\r\n【犬神甲】\r\n【犬神弹】\r\n【犬神帆】"
+    },
+    {
+      "id": 70253,
+      "name": "天鹅绒卡+1",
+      "resid": "goods_tianerong160.psd",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\r\n<color=#00ffff>琳娜二世：天鹅绒大衣，才能衬托我的美丽</color>"
+    },
+    {
+      "id": 70303,
+      "name": "精品纯银餐盘卡+2",
+      "resid": "goods_chunyincanpan160.psd",
+      "quality": 4,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>这样的餐盘吃饭，不仅有品位，还可以试毒</color>"
+    },
+    {
+      "id": 1079,
+      "name": "籍·来打我呀",
+      "resid": "skill_s8laida.psd",
+      "quality": 4,
+      "type": 31,
+      "intro": "用于学习和提升技能【<color=#A02DE4>来打我呀</color>】\r\n技能效果：嘲讽敌舰，使自身成为攻击目标\r\n可在技能副本中掉落"
+    },
+    {
+      "id": 70353,
+      "name": "特制维京匕首卡+5",
+      "resid": "goods_weijingbishou160.psd",
+      "quality": 5,
+      "type": 70,
+      "intro": "用于货物卡合成，可以解锁隐藏货物\n<color=#00ffff>最大的愿望就是和中国的屠龙刀比一比</color>"
+    }
+  ]
+}
