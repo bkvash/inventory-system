@@ -13,11 +13,9 @@ public class TextScript : MonoBehaviour
     private SystemData SysDataList = null;
     private RoleData RoleDataList = null;
     public List<List<int>> array1 = new List<List<int>>();
-    public List<int> alltype, type21,  type70= new List<int>();
-    
-    
+    public List<int> type0, type21,  type70= new List<int>();
 
-    private void ReloadJsonData()
+    public void ReloadJsonData()
     {
         string sysJsontxt = ((TextAsset)Resources.Load("systemData")).text;
         string roleJsontxt = ((TextAsset)Resources.Load("roleData")).text;
@@ -29,19 +27,17 @@ public class TextScript : MonoBehaviour
     {
         foreach (var item in SysDataList.itemList)
         {
-            alltype.Add(item.type);
+            type0.Add(item.type);
         }
 
-        for (int i = 0; i <= alltype.Count - 1; i++)
+        for (int i = 0; i <= type0.Count - 1; i++)
         {
-            if (alltype[i] == 21)
+            if (type0[i] == 21)
                 type21.Add(i);
-            if(alltype[i] == 70)
+            if(type0[i] == 70)
                 type70.Add(i);
         }
     }
-
-
 
     private void LoadiConandText()
     {
@@ -56,8 +52,6 @@ public class TextScript : MonoBehaviour
         GameObject.FindWithTag("nametxt").GetComponent<Text>().text = SysDataList.itemList[bagnumber - 1].name;
     }
     // Use this for initialization
-
-
 
     void Start ()
     {

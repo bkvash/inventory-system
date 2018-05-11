@@ -238,10 +238,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Script\button.cs" />
     <Compile Include="Assets\Script\Depot.cs" />
     <Compile Include="Assets\Script\filereading.cs" />
-    <Compile Include="Assets\Script\introTxt.cs" />
     <Compile Include="Assets\Script\jsonclass\RoleData.cs" />
     <Compile Include="Assets\Script\jsonclass\SystemData.cs" />
     <Compile Include="Assets\Script\TextScript.cs" />
